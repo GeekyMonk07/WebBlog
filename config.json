@@ -1,0 +1,14 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/geekymonk07",
+        "prod_uri":"mysql://root:@localhost/geekymonk07",
+        "lkd_url":"https://www.linkedin.com/in/thelearninggeek",
+        "tw_url":"https://twitter.com/iamkira07",
+        "gh_url":"https://github.com/GeekyMonk07"
+        
+    }
+}
+
+  
